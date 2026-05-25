@@ -87,12 +87,12 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto: franssetia888@gmail.com"> franssetia888@gmail.com</a><br />
+            <a href="mailto: tangocnganstyq46118@gmail.com"> tangocnganstyq46118@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠 ADROP.AI LIMITED
-                Flat 1
-                24 Montem Road
-                NEW MALDEN - KT3 3QW
+              🏠 TECHNOLOGIES HUB (UK) LIMITED
+                11 Seymour Lane
+                North Baddesley
+                SOUTHAMPTON - SO52 9FN
                 United Kingdom (GB)
             </span>
           </p>
